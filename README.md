@@ -3,11 +3,16 @@
 A GAME MADE BY STUDENTS OF CIVIL ENGINEERING IN INFORMATIS
 
 to play the game run the file desktop.exe the file is located in the game folder
-//
-the buttons are\n
-W: top\n
-S: down//
-To the left
+
+
+the buttons are
+
+W: top
+
+S: down
+
+A: left
+
 D: right
 
 E: remove heart
