@@ -15,6 +15,7 @@ A: left
 
 D: right
 
+Space: shoot a dage
 E: remove heart
 P: give heart
 
